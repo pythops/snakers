@@ -2,6 +2,7 @@
 name = "snakers"
 version = "0.1.0"
 authors = ["pythops <contact@pythops.com>"]
+description = "The snake game like in the old days"
 license = "AGPL-3.0"
 readme = "README.md"
 homepage = "https://github.com/pythops/snakers"
