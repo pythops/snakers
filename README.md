@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Snakers </h1>
-  <h2> A snake game like in the old days </h2>
+  <h2> The snake game like in the old days </h2>
 </div>
 
 ![demo](assets/demo.gif)
